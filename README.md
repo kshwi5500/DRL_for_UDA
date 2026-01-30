@@ -34,8 +34,6 @@ Main responsibilities:
 Remarks:
 - The notebook currently demonstrates the SVHN → MNIST setting.
 - By changing the dataset argument (e.g., dset='u2m', dset='m2u') and corresponding paths, the same training logic can be reused for other domain adaptation benchmarks.
-- The ERM baseline is trained from scratch using the same codebase (pretrained ERM checkpoints are not provided.)
-
 
 ### get_data_ours.py
 Dataset loading and preprocessing
