@@ -3,6 +3,7 @@
 This code implements the algorithm from the following paper:
 
 > Seonghwi Kim, Sung Ho Jo, Wooseok Ha, and Minwoo Chae
+
 > [Distributionally Robust Classification for Multi-source Unsupervised Domain Adaptation](https://arxiv.org/abs/2601.21315) 
 
 ## Abstract
