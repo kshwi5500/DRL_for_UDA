@@ -50,7 +50,6 @@ Supported dataset configurations:
 - u2m: USPS → MNIST
 - m2u: MNIST → USPS
 - m2mm: MNIST → MNIST-M
-- 
 
 ### utils.py
 This file provides shared utilities for experiment management.
